@@ -1,0 +1,1 @@
+C:\Users\fatim\AppData\Local\Programs\Python\Python313\python.exe e:/test.py/main.py
